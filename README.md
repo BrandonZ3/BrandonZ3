@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Brandon Tyler Schaup
 
-<!--
-**BrandonZ3/BrandonZ3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead IT Developer @ Mac Automation**  
+Based in Uitenhage, Eastern Cape, South Africa  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- Full‑stack developer skilled in **Node.js, Angular, C#, Go, JavaScript, TypeScript, C**
+- Experienced in **PLC/SCADA programming** and industrial automation
+- **database programming** (MongoDB, SQL Server, MySQL)
+- Strong background in **Windows & Linux**
+
+---
+
+## Featured Projects
+- **CPPLib** — Main Library used in some of the projects listed below.
+- **SimpleWebServer** — Lightweight HTTP server with socket programming  
+- **BMail** — Basic mail transfer protocol implementation.  
+- **Command** — Custom command parsing and execution.
+- **2D‑Vertex‑Generator** — Graphics utility for WebGL and beyond.  
+- **BDissassmebler** — Disassembler for both ELF and PE formats.
+- **BGraphic** — Directx 12 - 2D HTML renderer.
+---
+
+## Skills
+- **Frontend:** Angular, TypeScript, JavaScript  
+- **Backend:** Node.js, C#, Go, C
+- **Databases:** MongoDB, SQL Server, MySQL  
+- **Automation:** PLC, SCADA systems  
