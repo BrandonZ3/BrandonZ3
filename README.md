@@ -14,6 +14,7 @@ Based in Uitenhage, Eastern Cape, South Africa
 ---
 
 ## Featured Projects
+- **Beetech** — Website rebuild/upgrade using MEAN stack.
 - **CPPLib** — Main Library used in some of the projects listed below.
 - **SimpleWebServer** — Lightweight HTTP server with socket programming  
 - **BMail** — Basic mail transfer protocol implementation.  
