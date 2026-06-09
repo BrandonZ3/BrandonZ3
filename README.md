@@ -14,14 +14,14 @@ Based in Uitenhage, Eastern Cape, South Africa
 ---
 
 ## Featured Projects
-- **Beetech** — Website rebuild/upgrade using MEAN stack.
-- **CPPLib** — Main Library used in some of the projects listed below.
-- **SimpleWebServer** — Lightweight HTTP server with socket programming  
-- **BMail** — Basic mail transfer protocol implementation.  
-- **Command** — Custom command parsing and execution.
-- **2D‑Vertex‑Generator** — Graphics utility for WebGL and beyond.  
-- **BDissassmebler** — Disassembler for both ELF and PE formats.
-- **BGraphic** — Directx 12 - 2D HTML renderer.
+- [**Beetech**](https://github.com/BrandonZ3/Beetech) — Website rebuild/upgrade using MEAN stack.
+- [**CPPLib**](https://github.com/BrandonZ3/CPPLib) — Main Library used in some of the projects listed below.
+- [**SimpleWebServer**](https://github.com/BrandonZ3/SimpleWebServer) — Lightweight HTTP server with socket programming  
+- [**BMail**](https://github.com/BrandonZ3/BMail) — Basic mail transfer protocol implementation.  
+- [**Command**](https://github.com/BrandonZ3/Command) — Custom command parsing and execution.
+- [**2D‑Vertex‑Generator**](https://github.com/BrandonZ3/2D-Vertex-Generator) — Graphics utility for WebGL and beyond.  
+- [**BDisassmebler**](https://github.com/BrandonZ3/BDissassembler) — Disassembler for both ELF and PE formats.
+- [**BGraphic**](https://github.com/BrandonZ3/BGraphic) — Directx 12 - 2D HTML renderer.
 ---
 
 ## Skills
