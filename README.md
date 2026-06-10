@@ -1,7 +1,7 @@
 # Hi, I'm Brandon Tyler Schaup
 
 **Lead IT Developer @ Mac Automation**  
-Based in Uitenhage, Eastern Cape, South Africa  
+Based in Kariega, Eastern Cape, South Africa  
 
 ---
 
