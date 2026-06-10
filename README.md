@@ -26,7 +26,7 @@ Based in Uitenhage, Eastern Cape, South Africa
 ---
 
 ## Skills
-- **Frontend:** Angular, TypeScript, JavaScript  
+- **Frontend:** Angular, TypeScript, JavaScript, Win32, D3D12
 - **Backend:** Node.js, C#, Go, C
 - **Databases:** MongoDB, SQL Server, MySQL  
 - **Automation:** PLC, SCADA systems  
