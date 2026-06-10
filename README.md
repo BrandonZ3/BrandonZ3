@@ -20,7 +20,7 @@ Based in Uitenhage, Eastern Cape, South Africa
 - [**BMail**](https://github.com/BrandonZ3/BMail) — Basic mail transfer protocol implementation.  
 - [**Command**](https://github.com/BrandonZ3/Command) — Custom command parsing and execution.
 - [**2D‑Vertex‑Generator**](https://github.com/BrandonZ3/2D-Vertex-Generator) — Graphics utility for WebGL and beyond.  
-- [**BDisassmebler**](https://github.com/BrandonZ3/BDissassembler) — Disassembler for both ELF and PE formats.
+- [**BDisassmebler**](https://github.com/BrandonZ3/BDisassembler) — Disassembler for both ELF and PE formats.
 - [**BGraphic**](https://github.com/BrandonZ3/BGraphic) — Directx 12 - 2D HTML renderer.
 ---
 
